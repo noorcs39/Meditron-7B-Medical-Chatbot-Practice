@@ -10,11 +10,11 @@ This project demonstrates a **practice-based integration** of the [malhajar/medi
 
 ### 🔍 Input Interface
 
-![Input Demo](result 1.png)
+![Input Demo](result_1.png)
 
 ### 🧐 Answer Generation
 
-![Output Demo](result 2.png)
+![Output Demo](result_2.png)
 
 ---
 
